@@ -1,3 +1,36 @@
 Color	Hex Code	RGB
 Black (used for lines, text, emblem)	#000000	(0, 0, 0)
 White (background)	#FFFFFF	(255, 255, 255)
+
+Logo 2  – Color Codes
+
+#000000
+#938234
+#000001
+#938233
+#938232
+Logo 3  – Color Codes
+
+#000000
+#000001
+#000100
+#010000
+#000101
+
+
+Logo 4 – Color Codes
+
+#f0f0f0
+#efefef
+#eeeeee
+#ededed
+#ededef
+
+Logo 5 – Color Codes
+
+#ffffff
+#fffffd
+#fffeff
+#fffffe
+
+#feffff
